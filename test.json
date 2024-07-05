@@ -1,0 +1,39 @@
+{
+  "header": {
+    "name": "Company Name",
+    "logo": "https://example.com/logo.png"
+  },
+  "sections": [
+    {
+      "subHeader": "Section 1",
+      "text": "This is the first section.",
+      "image": "https://example.com/image1.png"
+    },
+    {
+      "subHeader": "Section 2",
+      "text": "This is the second section.",
+      "image": "https://example.com/image2.png"
+    }
+  ],
+  "banner": {
+    "product": {
+      "name": "Top Product",
+      "price": "$99.99",
+      "availability": "In Stock"
+    }
+  },
+  "products": [
+    {
+      "name": "Product 1",
+      "price": "$19.99",
+      "availability": "In Stock",
+      "image": "https://example.com/product1.png"
+    },
+    {
+      "name": "Product 2",
+      "price": "$29.99",
+      "availability": "Out of Stock",
+      "image": "https://example.com/product2.png"
+    }
+  ]
+}
