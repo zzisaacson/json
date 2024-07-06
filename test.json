@@ -17,9 +17,9 @@
   ],
   "banner": {
     "product": {
-      "name": "Top Product",
-      "price": "$99.99",
-      "availability": "In Stock"
+      "name": "Consultation Call",
+      "price": "FREE",
+      "availability": "Loading..."
     }
   },
   "products": [
